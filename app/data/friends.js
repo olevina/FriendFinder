@@ -16,7 +16,7 @@ var friends = [
           ]
       },
       {
-        "name":"BooBoo",
+        "name":"Boo Boo",
         "photo":"http://www.southhavenjellystone.com/content/uploads/booboo-sitting-on-green.png",
         "scores":[
             5,
